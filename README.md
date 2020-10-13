@@ -1,2 +1,2 @@
-# Coputer-vision-projects
+# Computer-vision-projects
 Some of the standard computer vision problems solved
