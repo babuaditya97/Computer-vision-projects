@@ -21,9 +21,10 @@ Run the script to install all nessasary packages
 ```sh
 $ pip intsall requirements.txt
 ```
-
+download model weights from " https://pjreddie.com/media/files/yolov3.weights " and place int in /utils 
 
 ### Code flow
+
 add path of the video file to be processed in line 16 
 run " yolo_detect_video.py "
 
